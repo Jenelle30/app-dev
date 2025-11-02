@@ -1,7 +1,7 @@
 # app-dev
 My first repository
-# My Favorite Movies
 
+# My Favorite Movies
 ## The Lord of the Rings: The Fellowship of the Ring
 
 *Genre:* Fantasy / Adventure
